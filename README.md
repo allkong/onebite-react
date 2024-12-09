@@ -13,7 +13,7 @@
 
 - [x] Section 1: 시작하며
 - [x] Section 2: Javascript 기본
-- [ ] Section 3: Node.js 기초
+- [x] Section 3: Node.js 기초
 - [ ] Section 4: React.js 개론
 - [ ] Section 5: React 입문
 - [ ] Section 6: 프로젝트1. 카운터 앱
