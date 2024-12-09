@@ -11,7 +11,7 @@
 
 ### 🚀 커리큘럼
 
-- [ ] Section 1: 시작하며
+- [x] Section 1: 시작하며
 - [ ] Section 2: Javascript 기본
 - [ ] Section 3: Node.js 기초
 - [ ] Section 4: React.js 개론
