@@ -17,7 +17,7 @@
 - [x] Section 4: React.js 개론
 - [x] Section 5: React 입문
 - [x] Section 6: 프로젝트1. 카운터 앱
-- [ ] Section 7: 라이프사이클
+- [x] Section 7: 라이프사이클
 - [ ] Section 8: 프로젝트2. 투두리스트
 - [ ] Section 9: useReducer
 - [ ] Section 10: 최적화
