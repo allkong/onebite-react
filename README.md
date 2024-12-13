@@ -15,7 +15,7 @@
 - [x] Section 2: Javascript 기본
 - [x] Section 3: Node.js 기초
 - [x] Section 4: React.js 개론
-- [ ] Section 5: React 입문
+- [x] Section 5: React 입문
 - [ ] Section 6: 프로젝트1. 카운터 앱
 - [ ] Section 7: 라이프사이클
 - [ ] Section 8: 프로젝트2. 투두리스트
