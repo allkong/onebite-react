@@ -19,7 +19,7 @@
 - [x] Section 6: 프로젝트1. 카운터 앱
 - [x] Section 7: 라이프사이클
 - [x] Section 8: 프로젝트2. 투두리스트
-- [ ] Section 9: useReducer
+- [x] Section 9: useReducer
 - [ ] Section 10: 최적화
 - [ ] Section 11: Context
 - [ ] Section 12: React 실전 프로젝트 - 감성 일기장 만들기
