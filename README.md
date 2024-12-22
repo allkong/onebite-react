@@ -22,5 +22,5 @@
 - [x] Section 9: useReducer
 - [x] Section 10: 최적화
 - [x] Section 11: Context
-- [ ] Section 12: React 실전 프로젝트 - 감성 일기장 만들기
+- [x] Section 12: React 실전 프로젝트 - 감성 일기장 만들기
 - [ ] Section 13: 마치면서
