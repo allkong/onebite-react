@@ -18,7 +18,7 @@ const useDiary = (id) => {
     }
 
     setCurrentDiaryItem(currentDiaryItem);
-  }, [id, data]);
+  }, [id]);
 
   return currentDiaryItem;
 };
